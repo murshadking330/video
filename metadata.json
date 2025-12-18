@@ -1,0 +1,8 @@
+{
+  "name": "StreamShort - Instant Video Sharing",
+  "description": "A high-performance video upload platform that generates AI-powered short URLs, summaries, and metadata for your content.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
